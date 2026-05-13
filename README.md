@@ -9,7 +9,7 @@ keeps re-calling the target URL with two independent limits:
 - a **success iteration limit** (for successful calls),
 
 plus a payload-level override where `{ "stop": true }` immediately marks the
-job `done`.
+job `done`. 
 
 ![](cover.png)
 
